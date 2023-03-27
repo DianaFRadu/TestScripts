@@ -30,6 +30,6 @@ public class FirstScript {
 	}
 	@AfterClass
 	public void tearDown() {
-		driver.quit();
+		//driver.quit();
 	}
 }
