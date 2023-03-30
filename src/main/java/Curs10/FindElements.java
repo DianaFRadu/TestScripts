@@ -6,9 +6,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import utils.BaseTest;
+import Utils.BaseTest;
 
-public class FindElements extends BaseTest {
+
+public class FindElements extends BaseTest{
 	
 	
 	@Test

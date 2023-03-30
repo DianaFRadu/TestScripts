@@ -1,15 +1,17 @@
 package Curs10;
 
 import static org.testng.Assert.assertEquals;
+
 import static org.testng.Assert.assertTrue;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-import utils.BaseTest;
+import Utils.BaseTest;
 
-public class SeleniumLocators2 extends BaseTest{
+
+public class SeleniumLocators2 extends BaseTest {
 
 	
 	@Test(priority = 1)
